@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.header-bg, .footer-bg {
+    background-color: #eecc5f;
+    color: black;
+}
+
+.mobile-menu-bg {
+    background-color: #eecc5f;
+}
+
+.nav-link {
+    color: black !important;
+}
+
+.nav-link:hover {
+    color: #eecc5f !important;
+}
+
+#mobile-menu {
+    text-align: right; 
+}
+
+#mobile-menu .nav-link {
+    text-align: right;
+    padding-left: 15px; 
+}
